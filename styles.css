@@ -20,8 +20,8 @@ hr {
 }
 
 .container h1 {
-    @media screen and (max-width: 1300px) {
-        font-size: small;
+    @media screen and (max-width: 500px) {
+        font-size: large;
     }
     background-color: #4c1d95;
     display: inline;
