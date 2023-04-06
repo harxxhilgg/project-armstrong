@@ -20,7 +20,7 @@ hr {
 }
 
 .container h1 {
-    @media screen and (max-width: 1300px) {
+    @media screen and (max-width: 414px) {
         font-size: 15px;
     }
     background-color: #4c1d95;
