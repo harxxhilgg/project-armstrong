@@ -19,10 +19,11 @@ hr {
     border-color: whitesmoke;
 }
 
-.container h1 {
-    @media screen and (max-width: 414px) {
-        font-size: 15px;
+.container .title-div {
+    @media screen and (max-width: 1300px) {
+        font-size: 16px;
     }
+    font-size: 32px;
     background-color: #4c1d95;
     display: inline;
     padding-top: 0.7rem; 
