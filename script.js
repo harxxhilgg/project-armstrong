@@ -18,7 +18,7 @@ function checkArm() {
     }
 
     if(inputBox.value.length == 0) {
-        document.getElementById('output-id').innerHTML = "Enter Something First you mug!";
+        document.getElementById('output-id').innerHTML = "Invalid or Null Input!";
     }
     else {
         if(tempValue < 0) {
